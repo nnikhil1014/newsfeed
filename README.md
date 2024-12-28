@@ -91,5 +91,5 @@ Distributed under the MIT License.
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 <!-- ACKNOWLEDGMENTS -->
-### Acknowledgments
+### Acknowledgments 
 This project was built to practice React, React-router, and API integration. A big thanks to the open-source community and NewsAPI for providing the resources that made this project possible.
